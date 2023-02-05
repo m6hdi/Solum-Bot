@@ -1,0 +1,2 @@
+# Solum-Bot
+Discord Bot
