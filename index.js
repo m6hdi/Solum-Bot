@@ -13,7 +13,7 @@ const bot = new Discord.Client({
 })
 
 
-bot.login("MTA3MTQwODIzOTE4ODY0Mzg3MA.G5TeXc.1EWC21lXMyYFb2mZSKHbuwPYxPxnzhbG2gmXXU") 
+bot.login("token") 
 
 bot.once('ready', () => {
 console.log("Bot is online")   
